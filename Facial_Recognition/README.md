@@ -1,5 +1,5 @@
-**FACIAL RECOGNITION - CONTRIBUTOR**
+                                                **FACIAL RECOGNITION - CONTRIBUTOR**
 
-    *Collaborated with friends to exercise facial recognition while using various machine learning tools*
+   Collaborated with friends to exercise facial recognition while using various machine learning tools
     
   
