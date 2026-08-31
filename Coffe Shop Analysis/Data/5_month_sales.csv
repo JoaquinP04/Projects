@@ -1,276 +1,277 @@
 ITEMS,SALES AMOUNT,QUANTITY
-111,1234.75,193.0
-1111,397.5,58.0
-7-Up,84.15,45.0
-Almond Croissant,1075.5,239.0
-Almond milk,118.5,158.0
-Americano L,269.25,48.0
-Americano M,583.25,116.0
-Americano S,133.25,31.0
-Apple Juice,448.8,120.0
-Avocado Toast,5813.75,383.0
-BLT,174.5,13.0
-BLUEBERRY,19.5,13.0
-Balsamic Dressing,0.0,30.0
-Banana,39.99,43.0
-Banana Nut Bread,1968.0,492.0
-Be Box,27.5,1.0
-Beechwood Burger,2106.5,133.0
-Beechwood Salad,2260.5,147.0
-Beechwood wrap,2519.0,173.0
-Blue velvet cupcake,172.0,43.0
-Boba Milk tea,1572.75,240.0
-Boba Taro,985.75,150.0
-Boba Ube,734.0,91.0
-Bountiful Yogurt Burst,1280.75,96.0
-Boylan Ginger Ale,112.0,32.0
-Boyland Seltzer,42.0,12.0
-Brownie,160.0,40.0
-Bulgogi Bowl,5142.75,314.0
-Burrito Bowl,4495.5,242.0
-Buttermilk Biscuit,4.0,2.0
-Caesar Dressing,0.0,35.0
-Cajun Dressing,0.0,1.0
-Cajun Salad,2645.25,165.0
-Cajun chicken Wrap,5142.75,329.0
-Cali. Veggie Burger,1961.85,138.0
-California Omelet,3960.6,261.0
-Cappccino S,411.5,80.0
-Caramel Macchiato S,130.25,23.0
-Carrot Spice layer,427.0,61.0
-Chai Tea S,110.75,19.0
-Cheese Burger,3175.85,215.0
-Cheese Danish,888.0,222.0
-Chicken Club,10110.6,719.0
-Chicken Quesadilla,3441.85,229.0
-Chicken Sandwich,2981.2,198.0
-Chili with Chips,145.0,12.0
-Chipotle mayo,65.0,65.0
-Chocolate Chip Cookie,1372.0,490.0
-Chocolate Croissant,1056.0,264.0
-Chocolate Milk,32.0,8.0
-Chocolate Mousses,567.0,81.0
-Chocolate Twist,864.0,216.0
-Cinnamon Bun,932.0,233.0
-CocoFudge cupcake,168.0,42.0
-Coconut Milk,1.5,2.0
-Coconut Water 16oz,393.0,68.0
-Coffee Cake,1376.5,344.0
-Coffee Refill,80.0,40.0
-Coffee S,264.25,94.0
-Coke,445.06,238.0
-Cortado,750.25,165.0
-Cup of ice,4.0,4.0
-Devils Choice Waffle,64.0,4.0
-Devils Pancakes,112.0,7.0
-Diet Coke,506.77,271.0
-Dine In Cafe Mocha,106.25,17.0
-Dine in Americano,303.25,55.0
-Dine in Cappuccino,1127.5,185.0
-Dine in Chai Latte,67.5,11.0
-Dine in Coffee,472.5,156.0
-Dine in Ginger Chai,30.0,5.0
-Dine in Hot Chocolate,60.75,12.0
-Dine in Latte,817.75,130.0
-EBC,4881.55,422.0
-ELAT,2115.75,148.0
-ESPRESSO OVER ICED,275.0,88.0
-ESPRESSO SHOT,1109.75,363.0
-Egg Bar,8730.33,691.0
-Eggs Benedict,1179.5,73.0
-Evergreen,36.0,2.0
-Farmers Breakfast,1186.5,78.0
-Free Coffee,0.0,1.0
-French Roast,272.0,16.0
-French toaste,1230.0,82.0
-Front Open Item,262.17,77.0
-Fruit Cheese cake,182.0,26.0
-Ginger Ale,59.5,17.0
-Ginger Chai S,38.5,7.0
-Granola Bowl,681.0,66.0
-Gravy,76.0,16.0
-Green Salsa,24.0,24.0
-Grill Cheese Sandwich,723.6,98.0
-Grilled Chicken Box,4678.75,274.0
-Guacamole Dip,60.0,6.0
-Hair Bender,272.0,16.0
-Ham and Cheese Crois.,2176.5,192.0
-Holler Mtn,357.0,21.0
-Homestead,170.0,10.0
-Hot Chocolate SE,32.0,8.0
-Hot Milk,24.0,6.0
-Huevos Rancheros,1806.7,111.0
-Iced Americano LS,273.25,49.0
-Iced Americano M,251.0,49.0
-Iced Americano xL,149.5,23.0
-Iced Coffee refill,20.0,5.0
-Iced Latte M,674.25,124.0
-JD Cookie,2045.0,409.0
-Jalapeno Mayo,0.0,7.0
-Jelly,0.0,8.0
-K- wings Sweet n Spice,881.37,63.0
-K-Ramen Regular,1193.55,99.0
-K-Ramen Rose Cheese,588.0,49.0
-K-wings Chipotle BBQ,825.41,59.0
-K-wings Crispy Soy,1609.85,116.0
-K-wings Sweet Chili,853.3900000000001,61.0
-Kale Caesar Salad,3105.25,203.0
-Kale Caesar Wrap,5105.5,350.0
-Kitchen Open item,119.35,98.0
-Kombucha,150.0,30.0
-Korean Steak Sandwich,5061.0,313.0
-L Arnold Palmer,606.0,101.0
-L COLDBREW,6966.0,1159.0
-L COLDBREW 11,707.75,135.0
-L HOT AMERICANO,325.75,55.0
-L HOT CAFE MOCHA,342.25,52.0
-L HOT CAPPUCCINO,1410.0,231.0
-L HOT CARAMEL MAC,497.5,77.0
-L HOT CHAI LATTE,598.25,92.0
-L HOT CHOCOLATE,35.0,7.0
-L HOT COFFEE,3209.5,1021.0
-L HOT GINGER CHAI,132.25,21.0
-L HOT LATTE,3162.25,495.0
-L HOT MATCHA,704.0,107.0
-L HOT PUMPKIN SPICE,18.75,3.0
-L HOT SALTED CARAMEL,233.5,36.0
-L HOT WHITE MOCHA,218.5,34.0
-L ICED AMERICANO,333.0,53.0
-L ICED CAFE MOCHA,230.25,32.0
-L ICED CAPPUCCINO,84.75,14.0
-L ICED CARAMEL MAC,364.0,49.0
-L ICED CHAI,431.75,64.0
-L ICED GINGER CHAI,42.25,6.0
-L ICED LATTE,1089.0,167.0
-L ICED MATCHA,1691.0,224.0
-L ICED PUMPKIN SPICE,28.75,4.0
-L ICED SALTED CARAMEL,370.5,51.0
-L ICED WHITE MOCHA,233.25,33.0
-L Iced Passion Fruit,1295.0,259.0
-L LEMONADE,420.0,84.0
-LARGE ICED LATTEeeeeee,13.0,2.0
-LARGED ICED LATTE,3570.75,552.0
-Latte M,975.25,186.0
-Latte S,450.0,84.0
-Lemonade,268.0,67.0
-London Fog,185.5,37.0
-M Arnold Palmer,480.0,96.0
-M COLDBREW,6710.75,1203.0
-M COLDBREW 11,805.25,132.0
-M ICED AMERICANO,839.75,140.0
-M ICED CAFE MOCHA,398.25,62.0
-M ICED CAPPUCCINO,405.25,59.0
-M ICED CARAMEL MAC,1141.75,173.0
-M ICED CHAI,534.75,78.0
-M ICED GINGER CHAI,56.0,8.0
-M ICED LATTE,5987.5,1019.0
-M ICED LATTEeeeee,12.75,2.0
-M ICED MATCHA,2625.5,387.0
-M ICED PUMPKIN SPICE,44.5,7.0
-M ICED SALTED CARAMEL,802.25,123.0
-M ICED WHITE MOCHA,416.75,64.0
-M Iced Passion Fruit,1284.0,321.0
-M LEMONADE,538.0,134.0
-Macchiato,85.5,19.0
-Maple Syrup,1.0,25.0
-Matcha S,199.25,35.0
-Mc and B,1787.5,147.0
-Milk,52.5,15.0
-Mixed Green Salad,198.0,19.0
-Mocha Latte S,129.0,23.0
-Monkey Bread,825.0,165.0
-Muffin,2640.0,880.0
-Muffin - HALF,25.0,20.0
-NY Cheese cake,280.0,40.0
-Oat milk,185.75,247.0
-Orange Juice,1655.0,331.0
-Oreo cupcake,196.0,49.0
-PLT,2577.75,179.0
-Pancake,1996.25,151.0
-Pecan Banana Waffle,600.0,40.0
-Plain Croissant,2342.64,636.0
-Pot of Tea,165.0,33.0
-Pumpkin Spice S,6.25,1.0
-RASPBERRY,19.5,13.0
-Ranch dressing,9.0,9.0
-Ranch sauce,23.0,23.0
-Ras.Cheese bun,785.0,157.0
-Red velvet,399.0,57.0
-Red velvet cupcake,244.0,61.0
-Rice Crispy,976.0,244.0
-S COLDBREW,2649.5,554.0
-S COLDBREW 11,1487.75,289.0
-S HOT AMERICANO,717.0,136.0
-S HOT CAFE MOCHA,586.5,104.0
-S HOT CAPPUCINO,3356.75,650.0
-S HOT CARAMEL MAC,654.0,116.0
-S HOT CHAI LATTE,763.25,131.0
-S HOT CHOCOLATE,181.25,44.0
-S HOT COFFEE,3357.25,1184.0
-S HOT GINGER CHAI,150.75,27.0
-S HOT LATTE,3352.75,593.0
-S HOT MATCHA,549.25,94.0
-S HOT PUMPKIN SPICE,28.25,5.0
-S HOT SALTED CARAMEL,287.0,50.0
-S HOT WHITE MOCHA,320.25,57.0
-S ICED AMERICANO,379.5,69.0
-S ICED CAFE MOCHA,205.5,36.0
-S ICED CAPPUCCINO,444.0,72.0
-S ICED CARAMEL MAC,470.25,82.0
-S ICED CHAI,428.0,71.0
-S ICED GINGER CHAI,60.25,10.0
-S ICED MATCHA,1198.25,201.0
-S ICED PUMPKIN SPICE,6.25,1.0
-S ICED SALTED CARAMEL,465.25,81.0
-S ICED WHITE MOCHA,158.75,28.0
-SIde of Cajun Fries,168.0,21.0
-SMALL ICED LATTE,2679.6,463.0
-STRAWBERRY,304.5,203.0
-Salmon Benedict,1243.5,68.0
-Salted Caramel S,107.5,19.0
-San Pellegrino 16oz,336.0,84.0
-San Pellegrino 8oz,324.0,108.0
-Santa Fe Burrito,4253.5,315.0
-Scones,3532.0,883.0
-Side Grilled Chicken,394.5,76.0
-Side of Avocado,115.0,23.0
-Side of Bacon,622.0,122.0
-Side of French Fries,2044.0,340.0
-Side of Fruit Bowl,352.0,44.0
-Side of Guacamole,43.0,10.0
-Side of Home Fries,495.0,97.0
-Side of Mixed Greens,163.0,20.0
-Side of Pancakes,305.0,31.0
-Side of Pico De Gallo,12.0,4.0
-Side of Sausage,334.0,65.0
-Side of Smoked Salmon,24.0,4.0
-Side of Steak,165.0,14.0
-Side of Thick Cut Ham,11.0,2.0
-Side of Toast,109.0,34.0
-Soup,2162.5,237.0
-Sour Cream,16.5,11.0
-Southern Pepper Egg,1543.6,115.0
-Spanish rice,25.0,5.0
-Steak Salmon Rice,3973.0,207.0
-Steak and Eggs,88.0,6.0
-Steam Milk,28.799999999999997,33.0
-Sticky Bun,805.0,161.0
-Sunrise Berry Bowl,844.0,64.0
-Syrup,281.25,375.0
-The Classic,3213.75,213.0
-To-Go Tea,2140.5,678.0
-Toasted Croissant,259.35,65.0
-Toasted Muffin,44.5,13.0
-Turkey Club,3215.0,214.0
-VIDAGUA CUCUMBER LEMON,50.0,10.0
-VIDAGUA JAMAICA HIBIS,40.0,8.0
-VIDAGUA MANGO GINGER,20.0,4.0
-Waffle,1319.0,94.0
-Waffle N Wings,95.0,5.0
-Water 1L,840.0,210.0
-Water 500mL,912.0,304.0
-WaterMelon  cup,140.0,28.0
-Whipped Cream,5.949999999999999,7.0
-White Mocha S,71.5,13.0
-White rice,235.5,55.0
-Wintermelon,26.0,4.0
+111,2469.5,386.0
+1111,795.0,116.0
+7-Up,190.74,102.0
+Almond Croissant,2389.5,531.0
+Almond milk,275.25,367.0
+Americano L,789.75,141.0
+Americano M,1384.0,275.0
+Americano S,266.5,62.0
+Apple Juice,1006.06,269.0
+Avocado Toast,13001.25,855.0
+BLT,349.0,26.0
+BLUEBERRY,45.0,30.0
+Balsamic Dressing,0.0,61.0
+Banana,89.28,96.0
+Banana Nut Bread,4432.0,1108.0
+Be Box,55.0,2.0
+Beechwood Burger,4728.7,299.0
+Beechwood Salad,5043.0,328.0
+Beechwood wrap,5812.0,398.0
+Blue velvet cupcake,368.0,92.0
+Boba Milk tea,3297.0,503.0
+Boba Taro,2208.5,336.0
+Boba Ube,1573.0,195.0
+Bountiful Yogurt Burst,2991.25,225.0
+Boylan Ginger Ale,241.5,69.0
+Boyland Seltzer,112.0,32.0
+Brownie,320.0,80.0
+Bulgogi Bowl,11341.5,694.0
+Burrito Bowl,10430.0,564.0
+Buttermilk Biscuit,20.0,8.0
+Caesar Dressing,0.0,73.0
+Cajun Dressing,0.0,2.0
+Cajun Salad,5644.5,352.0
+Cajun chicken Wrap,11566.25,740.0
+Cali. Veggie Burger,4558.95,321.0
+California Omelet,8802.7,580.0
+Cappccino S,823.0,160.0
+Caramel Macchiato S,339.75,60.0
+Carrot Spice layer,931.0,133.0
+Chai Tea S,221.5,38.0
+Cheese Burger,7153.7,485.0
+Cheese Danish,2012.0,503.0
+Chicken Club,22424.800000000003,1595.0
+Chicken Quesadilla,7720.7,513.0
+Chicken Sandwich,6789.9,451.0
+Chili with Chips,290.0,24.0
+Chipotle mayo,144.0,144.0
+Chocolate Chip Cookie,2959.6,1057.0
+Chocolate Croissant,2340.0,585.0
+Chocolate Milk,76.0,19.0
+Chocolate Mousses,1239.0,177.0
+Chocolate Twist,1940.0,485.0
+Cinnamon Bun,2080.0,520.0
+CocoFudge cupcake,372.0,93.0
+Coconut Milk,3.75,5.0
+Coconut Water 16oz,840.0,145.0
+Coffee Cake,3117.0,779.0
+Coffee Refill,178.0,89.0
+Coffee S,528.5,188.0
+Coke,987.36,528.0
+Cortado,1623.5,357.0
+Cup of ice,9.0,9.0
+Devils Choice Waffle,128.0,8.0
+Devils Pancakes,224.0,14.0
+Diet Coke,1146.31,613.0
+Dine In Cafe Mocha,268.75,43.0
+Dine in Americano,672.5,122.0
+Dine in Cappuccino,2493.5,408.0
+Dine in Chai Latte,153.75,25.0
+Dine in Coffee,1061.25,350.0
+Dine in Ginger Chai,60.0,10.0
+Dine in Hot Chocolate,137.25,27.0
+Dine in Latte,1804.25,286.0
+EBC,10833.55,939.0
+ELAT,4601.5,322.0
+ESPRESSO OVER ICED,562.0,180.0
+ESPRESSO SHOT,2460.5,806.0
+Egg Bar,19377.35,1538.0
+Eggs Benedict,2679.0,166.0
+Evergreen,72.0,4.0
+FREE LATTE,0.0,1.0
+Farmers Breakfast,2583.0,170.0
+Free Coffee,0.0,2.0
+French Roast,612.0,36.0
+French toaste,2865.0,191.0
+Front Open Item,562.87,168.0
+Fruit Cheese cake,399.0,57.0
+Ginger Ale,126.0,36.0
+Ginger Chai S,77.0,14.0
+Granola Bowl,1564.75,152.0
+Gravy,182.0,38.0
+Green Salsa,53.0,53.0
+Grill Cheese Sandwich,1650.9,224.0
+Grilled Chicken Box,10503.0,615.0
+Guacamole Dip,120.0,12.0
+Hair Bender,646.0,38.0
+Ham and Cheese Crois.,4895.25,433.0
+Holler Mtn,833.0,49.0
+Homestead,408.0,24.0
+Hot Chocolate SE,72.0,18.0
+Hot Milk,52.0,13.0
+Huevos Rancheros,4050.15,249.0
+Iced Americano LS,735.75,132.0
+Iced Americano M,603.5,118.0
+Iced Americano xL,370.5,57.0
+Iced Coffee refill,40.0,10.0
+Iced Latte M,1348.5,248.0
+JD Cookie,4435.0,887.0
+Jalapeno Mayo,0.0,16.0
+Jelly,0.0,20.0
+K- wings Sweet n Spice,1916.63,137.0
+K-Ramen Regular,2747.1,228.0
+K-Ramen Rose Cheese,1308.0,109.0
+K-wings Chipotle BBQ,1804.7099999999998,129.0
+K-wings Crispy Soy,3639.3999999999996,262.0
+K-wings Sweet Chili,2000.5700000000002,143.0
+Kale Caesar Salad,6758.5,442.0
+Kale Caesar Wrap,11572.0,792.0
+Kitchen Open item,262.45,217.0
+Kombucha,340.0,68.0
+Korean Steak Sandwich,11130.0,689.0
+L Arnold Palmer,1326.0,221.0
+L COLDBREW,15876.0,2642.0
+L COLDBREW 11,1415.5,270.0
+L HOT AMERICANO,701.0,118.0
+L HOT CAFE MOCHA,779.0,119.0
+L HOT CAPPUCCINO,3143.0,514.0
+L HOT CARAMEL MAC,1098.75,170.0
+L HOT CHAI LATTE,1313.0,202.0
+L HOT CHOCOLATE,75.75,15.0
+L HOT COFFEE,6982.25,2228.0
+L HOT GINGER CHAI,277.25,44.0
+L HOT LATTE,7307.75,1146.0
+L HOT MATCHA,1510.25,229.0
+L HOT PUMPKIN SPICE,37.5,6.0
+L HOT SALTED CARAMEL,526.0,81.0
+L HOT WHITE MOCHA,509.0,79.0
+L ICED AMERICANO,685.5,109.0
+L ICED CAFE MOCHA,516.5,72.0
+L ICED CAPPUCCINO,236.0,41.0
+L ICED CARAMEL MAC,854.25,115.0
+L ICED CHAI,945.0,142.0
+L ICED GINGER CHAI,101.0,15.0
+L ICED LATTE,2178.0,334.0
+L ICED MATCHA,3703.0,490.0
+L ICED PUMPKIN SPICE,57.5,8.0
+L ICED SALTED CARAMEL,896.5,123.0
+L ICED WHITE MOCHA,517.75,73.0
+L Iced Passion Fruit,2970.0,594.0
+L LEMONADE,855.0,171.0
+LARGE ICED LATTEeeeeee,26.0,4.0
+LARGED ICED LATTE,8127.5,1257.0
+Latte M,1950.5,372.0
+Latte S,900.0,168.0
+Lemonade,784.0,195.0
+London Fog,426.0,85.0
+M Arnold Palmer,1090.0,218.0
+M COLDBREW,15034.5,2699.0
+M COLDBREW 11,1610.5,264.0
+M ICED AMERICANO,1716.25,286.0
+M ICED CAFE MOCHA,938.5,146.0
+M ICED CAPPUCCINO,843.75,123.0
+M ICED CARAMEL MAC,2541.75,386.0
+M ICED CHAI,1204.75,174.0
+M ICED GINGER CHAI,118.25,17.0
+M ICED LATTE,13648.75,2324.0
+M ICED LATTEeeeee,25.5,4.0
+M ICED MATCHA,5856.5,862.0
+M ICED PUMPKIN SPICE,89.0,14.0
+M ICED SALTED CARAMEL,1927.25,296.0
+M ICED WHITE MOCHA,923.25,142.0
+M Iced Passion Fruit,2932.0,733.0
+M LEMONADE,1128.0,281.0
+Macchiato,179.5,40.0
+Maple Syrup,2.0,55.0
+Matcha S,468.25,82.0
+Mc and B,4020.75,331.0
+Milk,115.5,33.0
+Mixed Green Salad,432.0,42.0
+Mocha Latte S,333.25,59.0
+Monkey Bread,1815.0,363.0
+Muffin,5883.0,1961.0
+Muffin - HALF,60.0,48.0
+NY Cheese cake,623.0,89.0
+Oat milk,423.25,563.0
+Orange Juice,3675.0,735.0
+Oreo cupcake,412.0,103.0
+PLT,6009.5,419.0
+Pancake,4528.5,343.0
+Pecan Banana Waffle,1275.0,85.0
+Plain Croissant,5313.6,1440.0
+Pot of Tea,375.0,75.0
+Pumpkin Spice S,12.5,2.0
+RASPBERRY,39.0,26.0
+Ranch dressing,20.0,20.0
+Ranch sauce,51.0,51.0
+Ras.Cheese bun,1820.0,364.0
+Red velvet,854.0,122.0
+Red velvet cupcake,508.0,127.0
+Rice Crispy,2120.0,530.0
+S COLDBREW,6050.5,1275.0
+S COLDBREW 11,2975.5,578.0
+S HOT AMERICANO,1467.0,278.0
+S HOT CAFE MOCHA,1250.75,222.0
+S HOT CAPPUCINO,7532.75,1461.0
+S HOT CARAMEL MAC,1402.25,249.0
+S HOT CHAI LATTE,1672.0,287.0
+S HOT CHOCOLATE,427.25,104.0
+S HOT COFFEE,7499.0,2649.0
+S HOT GINGER CHAI,401.75,71.0
+S HOT LATTE,7682.0,1364.0
+S HOT MATCHA,1184.75,203.0
+S HOT PUMPKIN SPICE,56.5,10.0
+S HOT SALTED CARAMEL,585.0,102.0
+S HOT WHITE MOCHA,723.0,129.0
+S ICED AMERICANO,764.5,139.0
+S ICED CAFE MOCHA,491.0,86.0
+S ICED CAPPUCCINO,989.25,160.0
+S ICED CARAMEL MAC,1020.5,178.0
+S ICED CHAI,1007.5,166.0
+S ICED GINGER CHAI,140.25,23.0
+S ICED MATCHA,2710.25,454.0
+S ICED PUMPKIN SPICE,12.5,2.0
+S ICED SALTED CARAMEL,1019.25,177.0
+S ICED WHITE MOCHA,361.5,64.0
+SIde of Cajun Fries,376.0,47.0
+SMALL ICED LATTE,6131.95,1062.0
+STRAWBERRY,645.0,430.0
+Salmon Benedict,2793.0,153.0
+Salted Caramel S,238.5,42.0
+San Pellegrino 16oz,720.0,180.0
+San Pellegrino 8oz,711.0,237.0
+Santa Fe Burrito,9594.25,712.0
+Scones,7836.0,1959.0
+Side Grilled Chicken,924.0,179.0
+Side of Avocado,245.0,49.0
+Side of Bacon,1374.0,270.0
+Side of French Fries,4611.5,767.0
+Side of Fruit Bowl,800.0,100.0
+Side of Guacamole,90.0,21.0
+Side of Home Fries,1080.0,212.0
+Side of Mixed Greens,326.0,40.0
+Side of Pancakes,660.0,67.0
+Side of Pico De Gallo,39.0,13.0
+Side of Sausage,728.0,142.0
+Side of Smoked Salmon,48.0,8.0
+Side of Steak,340.0,29.0
+Side of Thick Cut Ham,22.0,4.0
+Side of Toast,229.0,70.0
+Soup,4775.0,524.0
+Sour Cream,39.0,26.0
+Southern Pepper Egg,3497.7,261.0
+Spanish rice,55.0,11.0
+Steak Salmon Rice,8611.0,449.0
+Steak and Eggs,193.5,13.0
+Steam Milk,67.8,78.0
+Sticky Bun,1780.0,356.0
+Sunrise Berry Bowl,1961.0,149.0
+Syrup,653.5,870.0
+The Classic,7105.5,471.0
+To-Go Tea,4702.0,1488.0
+Toasted Croissant,562.2,142.0
+Toasted Muffin,99.5,29.0
+Turkey Club,7395.0,492.0
+VIDAGUA CUCUMBER LEMON,115.0,23.0
+VIDAGUA JAMAICA HIBIS,95.0,19.0
+VIDAGUA MANGO GINGER,65.0,13.0
+Waffle,2890.0,206.0
+Waffle N Wings,190.0,10.0
+Water 1L,1896.0,474.0
+Water 500mL,2142.0,714.0
+WaterMelon  cup,425.0,85.0
+Whipped Cream,12.749999999999998,15.0
+White Mocha S,211.25,38.0
+White rice,549.0,128.0
+Wintermelon,52.0,8.0
